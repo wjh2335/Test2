@@ -66,7 +66,7 @@ void MainWindow::ListBox_SelectionChanged(IInspectable const& /*sender*/, Select
 }
 ```
 
-## 3. 실행결과
+## 3. 실행결과 (이미지 클릭 시 링크 이동)
 
 [![1](http://img.youtube.com/vi/oQnX24UMQAA/0.jpg)](https://youtu.be/oQnX24UMQAA?t=0s)
 
